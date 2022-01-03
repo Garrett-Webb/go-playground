@@ -1,3 +1,3 @@
-module github.com/Garrett-Webb/go-playground/tree/master/greetings
+module github.com/Garrett-Webb/go-playground/greetings
 
 go 1.17
